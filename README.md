@@ -3,11 +3,17 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 PronoAs she sat on the bench, Emily gazed out at the vibrant flowers and lush green grass of the park. She had always found solace in nature, and today was no exception. The warm sun shone down on her face, and the gentle breeze rustled her hair.
+
+A little boy's laughter caught her attention, and she watched as he chased after a squirrel, his eyes shining with delight. Emily smiled, remembering when she was once carefree like that.
+
+An elderly couple strolled hand in hand, enjoying the scenery. Emily felt a pang of longing, hoping to find someone to share such moments with someday.
+
+As she sat there, Emily realized that life was full of beauty and wonder, and sometimes all it took was a visit to the park to appreciate it.uns: ...
 - ⚡ Fun fact: ...
 
 <!---
 Lele413/Lele413 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-tyeye
+
